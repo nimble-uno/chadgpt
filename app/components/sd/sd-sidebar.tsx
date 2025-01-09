@@ -123,7 +123,7 @@ export function SideBar(props: { className?: string }) {
       <SideBarTail
         primaryAction={
           <a href={HOMEPAGE} target="_blank" rel="noopener noreferrer">
-            <IconButton icon={<NimbleIconIcon />} shadow />
+            <IconButton icon={<NimbleIcon />} shadow />
           </a>
         }
         secondaryAction={
