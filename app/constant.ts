@@ -266,10 +266,6 @@ const googleModels = [
   "gemini-1.5-flash-8b",
   "gemini-1.5-pro",
   "gemini-1.0-pro",
-  "gemma-2-2b-it",
-  "gemma-2-9b-it",
-  "gemma-2-27b-it",
-  "aqa",
 ];
 
 /*const anthropicModels = [
