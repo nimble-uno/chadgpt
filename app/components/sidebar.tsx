@@ -227,7 +227,7 @@ export function SideBar(props: { className?: string }) {
       <SideBarHeader
         title="ChadGPT"
         subTitle="All in one AI-assistant."
-        logo={<NimbleIcon />}
+        logo={<ChatGptIcon />}
       >
         <div className={styles["sidebar-header-bar"]}>
           <IconButton
