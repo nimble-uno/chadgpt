@@ -339,7 +339,7 @@ export const DEFAULT_MODELS = [
     available: true,
     provider: {
       id: "google",
-      providerName: "Server2",
+      providerName: "Google",
       providerType: "google",
     },
   })),
